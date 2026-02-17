@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Take a look at my website for more information: martinpatrikov.com
+Take a look at my website for more information: [Website](https://martinpatrikov.com)
 <!--
 **martinpatrikov/martinpatrikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
